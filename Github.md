@@ -1,31 +1,7 @@
----
-title: 無標題
-tags: [隨堂作業, ' hackMD']
-
----
-
----
-type: slide
-slideOptions:
-    theme: 
-tags: HackMD 投影片
----
-
 # 網際網路實務筆記
-
----
-
-* 我的第一個HackMD筆記
+* [我的第一個HackMD筆記](https:/@shhuangmust/BkLTsvuTo)
 * 邀請同學共同編輯畫面
 * 跟隨畫面的編輯!
 * 筆記與Github已經同步了
-
----
-
-![1.](https://hackmd.io/_uploads/rkR_13i61x.png3=300*)
-
----
-
-![2.](https://hackmd.io/_uploads/Byd5k2opJg.png=350*)
-
----
+![1.](https://hackmd.io/_uploads/rkR_13i61x.png)
+![2.](https://hackmd.io/_uploads/Byd5k2opJg.png)
